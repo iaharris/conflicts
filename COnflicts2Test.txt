@@ -1,1 +1,3 @@
-COnflict 2 test paper
+Conflict 2 test paper
+
+Conflicts4 addition
